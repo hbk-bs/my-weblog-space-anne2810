@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 250, 242);
+}
+body {
+    line-height: 1.5;
+    padding: 1em 5em;
+  }
+  
+  h2 {
+    margin-top: 0em;
+    padding-top: 1em;
+  }
+
+  body {
+    color: #0e0d0d;
+  }
+
+  h1,
+ h2,
+ strong {
+  color: #0e0d0d;
+}
+
+a {
+  color: rgb(33, 75, 65);
+}
+
+    header {
+      
+        background-color:rgb(33, 75, 65) ;
+        background-image: url("/header.jpg");
+        background-position: top center;
+        background-repeat: no-repeat;
+      
+        background-size: 50% auto;
+        background-size: 3em 25%;
+        background-size: auto 6px;
+        background-size: auto auto;
+      }
+    
+      img {
+        width: 100%;
+      }
